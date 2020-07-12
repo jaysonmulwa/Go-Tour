@@ -1,2 +1,2 @@
 # Go-Tour
-A Collection of key concepts in Go lang.
+A collection of key concepts in Go lang.
