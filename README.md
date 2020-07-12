@@ -1,2 +1,2 @@
 # Go-Tour
-A Tour of basic concepts in Go lang.
+A Collection of key concepts in Go lang.
